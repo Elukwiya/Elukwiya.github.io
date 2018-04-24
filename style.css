@@ -43,15 +43,16 @@ header.startup h1 {
 }
 
 .btn-xl {
-  padding: 1rem 2rem; 
+  padding: 1rem 2rem; margin: 0px auto;
 }
 
 .btn-primary {
   background-color: #F05F44;
-  border-color: #F05F44; }
+  border-color: #F05F44; 
+ }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
+  background-color: black;
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
